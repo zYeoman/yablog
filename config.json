@@ -2,5 +2,8 @@
     "title":"Mickir's Blog",
     "subTitle":"日记和碎碎念",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "homeUrl":"http://yablog.mickir.me",
+    "startSite":"07/02/2026",
+    "needComment":1
 }
